@@ -1,0 +1,1 @@
+var json_localidadesparipueira_6 = {"type":"FeatureCollection","name":"localidadesparipueira_6","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"id":null,"Nome":"Sonho Verde","Categoria":"outras localidades"},"geometry":{"type":"Point","coordinates":[-35.531883049184479,-9.453103270480328]}}]}

@@ -1,0 +1,1 @@
+var json_sedemunicipalparipueira_4 = {"type":"FeatureCollection","name":"sedemunicipalparipueira_4","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"Id":0.0,"Nome":"Paripueira"},"geometry":{"type":"MultiPoint","coordinates":[[-35.547939801082215,-9.465166941510411]]}}]}
